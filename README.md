@@ -54,3 +54,33 @@ Mons Level up
  
 Basic Send Received UDP:
 - https://github.com/EloiStree/2024_05_17_BasicPythonUdpWebsocketIID
+
+Code In Game: https://www.codingame.com/ide/puzzle/onboarding
+
+
+TUtorial install NTP et Websocket:  IID Lobby 
+https://github.com/EloiStree/2025_03_11_NtpWsClientIntegerLobbySetup
+
+
+[![image](https://github.com/user-attachments/assets/f9a26a0e-0845-49d3-bb1e-d4e7658176a4)
+](https://store.steampowered.com/app/271670/10_Second_Ninja/)
+https://store.steampowered.com/app/271670/10_Second_Ninja/
+
+
+[![image](https://github.com/user-attachments/assets/fda7e8ab-02b2-403d-a648-ac591755a91c)
+](https://www.xbox.com/en-US/games/goldeneye-007)  
+https://www.xbox.com/en-US/games/goldeneye-007  
+
+
+
+https://www.youtube.com/watch?v=4tk8lkmYGWQ
+
+
+[![image](https://github.com/user-attachments/assets/dc4114e0-b2da-4c4d-add6-5c2971368816)](https://github.com/EloiStree/HelloInput)
+https://github.com/EloiStree/HelloInput
+
+[![image](https://github.com/user-attachments/assets/cfac0858-bf5a-4b2e-bc28-68bc4dd16176)](https://github.com/EloiStree/2025_01_07_PitchDeckNtpIntPiGame/tree/main)
+
+https://github.com/EloiStree/2025_01_07_PitchDeckNtpIntPiGame/tree/main  
+
+
