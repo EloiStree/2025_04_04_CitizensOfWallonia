@@ -1,5 +1,15 @@
 # 2025_04_04_CitizensOfWallonia
 https://www.citizensofwallonia.be
+Pitch Hackathon: https://github.com/EloiStree/2022_04_20_PitchGuideHackathon
+
+
+------
+
+APInt.io
+- https://apint.io
+- https://best-hosting.cz/en/server-housing
+
+--
 
 
 Sujet de base
