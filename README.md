@@ -84,3 +84,16 @@ https://github.com/EloiStree/HelloInput
 https://github.com/EloiStree/2025_01_07_PitchDeckNtpIntPiGame/tree/main  
 
 
+
+
+
+Rent game to play for some time:
+
+![image](https://github.com/user-attachments/assets/fd1c40cc-ba9a-49e5-9c23-ceaf402b5e27)
+
+https://youtu.be/0Vtg245ZDbU?t=1162
+
+
+
+Modl AI:  Send Integer to play and receiv integer for touch with datee
+https://modl.ai
