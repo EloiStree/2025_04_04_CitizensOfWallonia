@@ -95,5 +95,16 @@ https://youtu.be/0Vtg245ZDbU?t=1162
 
 
 
+
+
+https://github.com/EloiStree/2025_02_05_WarcraftClientQA/blob/main/Ninja/NinjaThread.cs
+
+
+
+
+
+Apprendre Wow avec du code:
+https://www.youtube.com/watch?v=qxmC8YoRqHY&t=9868s
+
 Modl AI:  Send Integer to play and receiv integer for touch with datee
 https://modl.ai
