@@ -15,8 +15,12 @@ Autre:
 - IID: https://github.com/eloistree/iid
 
 
+Python to Native Code:
 https://github.com/EloiStree/2024_05_14_IntegerIndexDateToRemoteControl
-https://github.com/EloiStree/2024_12_13_IntegerToMerossFromPython
+
+IOT Service ?
+- https://github.com/EloiStree/2024_12_13_IntegerToMerossFromPython
+- https://github.com/EloiStree/2025_03_19_IntegerToGoveeFromPython
 
 Example of integer to action:
 - https://github.com/EloiStree/2024_05_14_IntegerIndexDateToRemoteControl/tree/main/Python
@@ -26,3 +30,13 @@ Example of integer to action:
  - Alexa
    - (Note lol, Parole >Alexa>IFTTT >Google Doc>Action on the PC 
  - 
+
+
+Note Kyber:  [Jean-Baptiste Kempf](https://www.youtube.com/watch?v=0Vtg245ZDbU)
+- https://parsec.app QA testing from remote
+- https://symless.com/synergy control compteur on the LAN
+
+Mons Level up
+- https://github.com/EloiStree/2025_02_03_MonsLevelUpInGroup/tree/main
+  -  https://github.com/EloiStree/HelloSharpForUnity3D/issues
+  -  https://github.com/EloiStree/HelloUnityKeywordForJunior
