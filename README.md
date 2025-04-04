@@ -51,3 +51,6 @@ Mons Level up
 - https://github.com/EloiStree/2025_02_03_MonsLevelUpInGroup/tree/main
   -  https://github.com/EloiStree/HelloSharpForUnity3D/issues
   -  https://github.com/EloiStree/HelloUnityKeywordForJunior
+ 
+Basic Send Received UDP:
+- https://github.com/EloiStree/2024_05_17_BasicPythonUdpWebsocketIID
