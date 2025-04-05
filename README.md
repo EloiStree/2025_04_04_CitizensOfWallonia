@@ -1,3 +1,8 @@
+https://makecode.microbit.org
+https://python.microbit.org/v/3/reference/variables
+
+
+----------------
 # 2025_04_04_CitizensOfWallonia
 
 https://www.citizensofwallonia.be   
